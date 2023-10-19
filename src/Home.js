@@ -5,6 +5,7 @@ import "./Home.css";
 const Home = () => {
     return (
         <div>
+            <h1>Minhas Tarefas em React  😄</h1>
             <nav>
             <ul>
                 <li>

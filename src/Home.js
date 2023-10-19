@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import "./Home.css";
 
 const Home = () => {
     return (
@@ -26,6 +27,9 @@ const Home = () => {
                 </li>
             </ul>
             </nav>
+            <footer>
+            © 2023 Meus Projetos em REACT | Desenvolvido por Andrey S. Soares
+            </footer>
         </div>
     );
 }

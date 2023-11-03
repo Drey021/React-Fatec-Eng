@@ -48,7 +48,7 @@ function Contador () {
   return (
     <div className='Contador-cont-comple'>
       <div className='Contador-header'>
-        <h1 className='Contador-titulo'>Total</h1>
+        <h1 className='Contador-titulo'>TOTAL</h1>
         <button className='Contador-button' onClick={atualizarCount}>
           <img className='Contador-button-img' src={imgAtualizar} />
         </button>
@@ -65,7 +65,7 @@ function Contador () {
               <img className='Contador-button-img' src={imgMenos}/>
             </button>
           </div>
-          <h1>Total</h1>
+          <h1>TOTAL</h1>
           <p className='Contador-cont'>{homemCount}</p>
         </div>
         <div className='Contador-pessoa'>
@@ -78,7 +78,7 @@ function Contador () {
               <img className='Contador-button-img' src={imgMenos}/>
             </button>
           </div>
-          <h1>Total</h1>
+          <h1>TOTAL</h1>
           <p className='Contador-cont'>{mulherCount}</p>
         </div>
       </div>

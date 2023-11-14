@@ -15,13 +15,13 @@ const Home = () => {
             <Link to={"/Atividade02"}>Atividade 2 - Contador Homem e Mulher ✔️</Link>
           </li>
           <li>
-            <Link to={"/Atividade03"}>Atividade 3 ❌</Link>
+            <Link to={"/Atividade03"}>Atividade 3 - Componentes diversos ❌</Link>
           </li>
           <li>
-            <Link to={"/Atividade04"}>Atividade 4 ❌</Link>
+            <Link to={"/Atividade04"}>Atividade 4 - Jogo da Memória ❌</Link>
           </li>
           <li>
-            <Link to={"/Atividade05"}>Atividade 5 ❌</Link>
+            <Link to={"/Atividade05"}>Atividade 5 - Calculadora ❌</Link>
           </li>
         </ul>
       </nav>

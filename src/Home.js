@@ -18,10 +18,10 @@ const Home = () => {
             <Link to={"/Atividade03"}>Atividade 3 - Componentes diversos ❌</Link>
           </li>
           <li>
-            <Link to={"/Atividade04"}>Atividade 4 - Jogo da Memória ❌</Link>
+            <Link to={"/Atividade05"}>Atividade 4 - Calculadora ✔️</Link>
           </li>
           <li>
-            <Link to={"/Atividade05"}>Atividade 5 - Calculadora ❌</Link>
+            <Link to={"/Atividade04"}>Atividade 5 - Jogo da Memória ❌</Link>
           </li>
         </ul>
       </nav>
